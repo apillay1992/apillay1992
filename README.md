@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ashley Pillay</h1>
-<h3 align="center">Student at WeThinkCode_ | Transforming Ideas into Code | Tech Explorer & Problem Solver</h3>
+<h3 align="left">Student at WeThinkCode_ | Transforming Ideas into Code | Tech Explorer & Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apillay1992&label=Profile%20views&color=0e75b6&style=flat" alt="apillay1992" /> </p>
 
-- 🔭 I’m currently working on [Employee Management System](https://github.com/apillay1992/Employee_Managment_System)
 
-- 📫 How to reach me **ashleyjulianpillay@gmail.com**
+💬 About Me **🚀 Aspiring Software Developer with a passion for creating innovative solutions through code. 💻 Currently pursuing a Software Development Qualification, eagerly absorbing new technologies and methodologies. 🌱 Continuously expanding my skillset through hands-on projects and online courses. 🛠️ Familiar with fundamental programming concepts and actively learning languages such as Java, Python, and C++. 📱 Exploring both front-end and back-end development to build a strong foundation as a full-stack developer. 🤝 Enthusiastic team player, honing collaboration skills through group projects and hackathons. 🔍 Keen problem-solver with a growing interest in algorithms and data structures. 📚 Committed to staying updated with industry trends and best practices in software engineering. 
+Skills:
+- Java Python HTML/CSS
+- Git version control
+- Docker(learning)
+- Test Driven Developmet(TDD)
+- Object-Oriented Programming
+- Basic database management
+- API integration and development
+- Web development fundamentals
+- Mobile app development (exploring)**
+  
+🔭 I’m currently working on [Employee Management System](https://github.com/apillay1992/Employee_Managment_System)
+
+📫 How to reach me **ashleyjulianpillay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
