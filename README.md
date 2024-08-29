@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apillay1992&label=Profile%20views&color=0e75b6&style=flat" alt="apillay1992" /> </p>
 
 
-💬 About Me **🚀 Aspiring Software Developer with a passion for creating innovative solutions through code. 💻 Currently pursuing a Software Development Qualification, eagerly absorbing new technologies and methodologies. 🌱 Continuously expanding my skillset through hands-on projects and online courses. 🛠️ Familiar with fundamental programming concepts and actively learning languages such as Java, Python, and C++. 📱 Exploring both front-end and back-end development to build a strong foundation as a full-stack developer. 🤝 Enthusiastic team player, honing collaboration skills through group projects and hackathons. 🔍 Keen problem-solver with a growing interest in algorithms and data structures. 📚 Committed to staying updated with industry trends and best practices in software engineering. 
+💬 **About Me** 🚀 Aspiring Software Developer with a passion for creating innovative solutions through code. 💻 Currently pursuing a Software Development Qualification, eagerly absorbing new technologies and methodologies. 🌱 Continuously expanding my skillset through hands-on projects and online courses. 🛠️ Familiar with fundamental programming concepts and actively learning languages such as Java and Python. 📱 Exploring both front-end and back-end development to build a strong foundation as a full-stack developer. 🤝 Enthusiastic team player, honing collaboration skills through group projects and hackathons. 🔍 Keen problem-solver with a growing interest in algorithms and data structures. 📚 Committed to staying updated with industry trends and best practices in software engineering. 
 Skills:
 - Java Python HTML/CSS
 - Git version control
@@ -16,9 +16,9 @@ Skills:
 - Web development fundamentals
 - Mobile app development (exploring)**
   
-🔭 I’m currently working on [Employee Management System](https://github.com/apillay1992/Employee_Managment_System)
+🔭 **I’m currently working on** [Employee Management System](https://github.com/apillay1992/Employee_Managment_System)
 
-📫 How to reach me **ashleyjulianpillay@gmail.com**
+📫 **How to reach me** ashleyjulianpillay@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
