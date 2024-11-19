@@ -16,7 +16,7 @@ Software Development student passionate about building innovative solutions thro
     <li>🔭 Currently working on: <a href="https://github.com/apillay1992/Employee_Managment_System" style="color: #58a6ff;">Employee Management System</a></li>
     <li>🌱 Learning: Mobile Development & Full Stack practices</li>
     <li>💬 Ask me about: Java, Python, or my journey at WeThinkCode_</li>
-    <li>⚡ Random fact: [Something unique about you or programming]</li>
+    <li>⚡ Random fact: Thought coding was just typing - turns out it's puzzle-solving fueled by coffee!</li>
     <li>📫 Reach me at: ashleyjulianpillay@gmail.com</li>
   </ul>
 
@@ -24,7 +24,7 @@ Software Development student passionate about building innovative solutions thro
 ```python
 {
     "Languages"     : ["Java", "Python", "HTML/CSS", "Dart"],
-    "Framework"     : ["Flutter"],
+    "Frameworks"    : ["Flutter"],
     "DevOps"        : ["Git", "Docker"],
     "Practices"     : ["TDD", "OOP"],
     "Backend"       : ["API Development", "Database Management"],
