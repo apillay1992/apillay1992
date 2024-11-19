@@ -4,21 +4,33 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apillay1992&label=Profile%20views&color=0e75b6&style=flat" alt="apillay1992" /> </p>
 
 
-💬 **About Me** 🚀 Aspiring Software Developer with a passion for creating innovative solutions through code. 💻 Currently pursuing a Software Development Qualification, eagerly absorbing new technologies and methodologies. 🌱 Continuously expanding my skillset through hands-on projects and online courses. 🛠️ Familiar with fundamental programming concepts and actively learning languages such as Java and Python. 📱 Exploring both front-end and back-end development to build a strong foundation as a full-stack developer. 🤝 Enthusiastic team player, honing collaboration skills through group projects and hackathons. 🔍 Keen problem-solver with a growing interest in algorithms and data structures. 📚 Committed to staying updated with industry trends and best practices in software engineering. 
-Skills:
-- Java Python HTML/CSS
-- Git version control
-- Docker(learning)
-- Test Driven Developmet(TDD)
-- Object-Oriented Programming
-- Basic database management
-- API integration and development
-- Web development fundamentals
-- Mobile app development (exploring)**
-  
-🔭 **I’m currently working on** [Employee Management System](https://github.com/apillay1992/Employee_Managment_System)
+## 💫 About Me
+Software Development student passionate about building innovative solutions through code. I'm on a journey to become a full-stack developer, constantly learning and growing through hands-on projects.
 
-📫 **How to reach me** ashleyjulianpillay@gmail.com
+<blockquote>
+    <p>💡 Fun Fact: When I'm not coding, I enjoy hitting the gym - debugging code requires mental and physical strength!</p>
+  </blockquote>
+
+## 🎯 Quick Highlights</h3>
+  <ul>
+    <li>🔭 Currently working on: <a href="https://github.com/apillay1992/Employee_Managment_System" style="color: #58a6ff;">Employee Management System</a></li>
+    <li>🌱 Learning: Mobile Development & Full Stack practices</li>
+    <li>💬 Ask me about: Java, Python, or my journey at WeThinkCode_</li>
+    <li>⚡ Random fact: [Something unique about you or programming]</li>
+    <li>📫 Reach me at: ashleyjulianpillay@gmail.com</li>
+  </ul>
+
+## 🛠️ Tech Stack
+```python
+{
+    "Languages"     : ["Java", "Python", "HTML/CSS", "Dart"],
+    "Framework"     : ["Flutter"],
+    "DevOps"        : ["Git", "Docker"],
+    "Practices"     : ["TDD", "OOP"],
+    "Backend"       : ["API Development", "Database Management"],
+    "Learning"      : ["Mobile Development", "Full Stack Development"]
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +40,8 @@ Skills:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apillay1992&show_icons=true&locale=en&layout=compact" alt="apillay1992" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apillay1992&show_icons=true&locale=en&layout=compact&theme=dark" alt="apillay1992" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apillay1992&show_icons=true&locale=en" alt="apillay1992" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apillay1992&show_icons=true&locale=en&theme=dark" alt="apillay1992" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apillay1992&" alt="apillay1992" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apillay1992&theme=dark" alt="apillay1992" /></p>
