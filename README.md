@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me
-Software Development student passionate about building innovative solutions through code. I'm on a journey to become a full-stack developer, constantly learning and growing through hands-on projects.
+Software Developer passionate about building innovative solutions through code. I'm on a journey to become a full-stack developer, constantly learning and growing through hands-on projects.
 
 <blockquote>
     <p>💡 Fun Fact: When I'm not coding, I enjoy hitting the gym - debugging code requires mental and physical strength!</p>
