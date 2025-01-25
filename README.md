@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashley Pillay</h1>
-<h3 align="left">Student at WeThinkCode_ | Transforming Ideas into Code | Tech Explorer & Problem Solver</h3>
+<h3 align="left">Studied at WeThinkCode_ | Transforming Ideas into Code | Tech Explorer & Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apillay1992&label=Profile%20views&color=0e75b6&style=flat" alt="apillay1992" /> </p>
 
